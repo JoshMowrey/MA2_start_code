@@ -1,0 +1,3 @@
+/home/josh/Projects 223/MA2_start_code/MA2_start_code/build/CMakeFiles/CPTS_223_MA2.dir
+/home/josh/Projects 223/MA2_start_code/MA2_start_code/build/CMakeFiles/edit_cache.dir
+/home/josh/Projects 223/MA2_start_code/MA2_start_code/build/CMakeFiles/rebuild_cache.dir
